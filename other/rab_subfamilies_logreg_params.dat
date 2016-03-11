@@ -1,0 +1,23 @@
+#rab_subfamily  ph_loc  ph_scale    hs_loc  hs_scale
+
+DmRab9F         105     4           105     4
+DmRab9D         105     4           105     4
+DmRabX1         None    None        150     4
+DmRabX5         None    None        140     6
+rab3            120     8           110     6
+rab13           100     8           105     8
+rab18           105     10          90      8
+rab21           105     12          None    None
+rab22           105     10          None    None
+rab25           110     9           100     6
+rab31           110     15          None    None
+rab41           120     4           120     4
+rab43           105     10          None    None
+rabL2           None    None        90      6
+ryl2            None    None        130     6
+ypt11           180     20          220     10
+
+AtRabA1         115     6           None    None
+AtRabA3         105     8           120     4
+AtRabF1         105     4           105     4
+AtRabG1         105     8           120     8
